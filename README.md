@@ -10,10 +10,6 @@ This project predicts house prices based on:
 
 The app also estimates monthly EMI based on the predicted price.
 
-## 🚀 Demo
-👉 [Live Demo (if deployed)](https://share.streamlit.io/...) *(Optional)*  
-📷 ![App Screenshot](screenshot.png) *(Add a screenshot for better impression)*
-
 ## 📊 Tools Used
 - Python
 - pandas
