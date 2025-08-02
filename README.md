@@ -24,9 +24,4 @@ The app also estimates monthly EMI based on the predicted price.
 ## 📈 Results
 - Linear Regression R² Score: `0.969`
 
-## 🖥️ How to Run Locally
-```bash
-git clone https://github.com/your-username/house-price-predictor.git
-cd house-price-predictor
-pip install -r requirements.txt
-streamlit run app.py
+
